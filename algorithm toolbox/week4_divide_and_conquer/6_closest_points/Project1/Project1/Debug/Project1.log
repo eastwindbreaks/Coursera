@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(45): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(47): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(85): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(135): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(142): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\project1\project1\source.cpp(147): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\6_closest_points\Project1\Debug\Project1.exe

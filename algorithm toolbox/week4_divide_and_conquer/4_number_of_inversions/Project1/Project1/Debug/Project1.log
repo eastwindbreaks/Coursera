@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\4_number_of_inversions\project1\project1\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\4_number_of_inversions\project1\project1\source.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\4_number_of_inversions\project1\project1\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\coursera\data structure and algorithm\algorithm toolbox\week4_divide_and_conquer\4_number_of_inversions\Project1\Debug\Project1.exe
